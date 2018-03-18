@@ -11,7 +11,7 @@ if($status=="green"){
 }else if($status=="yellow"){
 	$img="Mellow-Server.gif";
 	$statustxt="<p style='color:orange'>苟延残喘TAT</p>";
-}else if($status=="reb"){
+}else if($status=="red"){
 	$img="Sad-Server.gif";
 	$statustxt="<p style='color:red'>瞬间爆炸QAQ</p>";
 }
